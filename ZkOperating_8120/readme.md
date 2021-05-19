@@ -1,3 +1,12 @@
+## 待办
+- 转换service层逻辑
+- 完成前端交互接口
+- 支持配置导入导出
+- vue搭建前端管理页面（Ant Design）
+
+
+
+
 ## 参数介绍
 | 参数名 |描述 |
 | ---- | ------- |
@@ -22,6 +31,8 @@
 *    EPHEMERAL_SEQUENTIAL : 临时顺序节点
 
 ![img.png](img/img.png)
+
+
 
 
 

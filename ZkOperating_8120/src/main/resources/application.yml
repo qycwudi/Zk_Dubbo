@@ -4,3 +4,7 @@ server:
 mybatis-plus:
   mapper-locations: classpath:static/mybatis/mapper/*.xml
 
+zk:
+  ip: 127.0.0.1
+root:
+  node: /ruyixingDevelopment/ZkOperating_8120
