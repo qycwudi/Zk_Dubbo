@@ -1,0 +1,6 @@
+server:
+  port: 8120
+
+mybatis-plus:
+  mapper-locations: classpath:static/mybatis/mapper/*.xml
+

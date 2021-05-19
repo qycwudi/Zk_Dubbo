@@ -20,7 +20,7 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
-            <version>1.5.8.RELEASE</version>
+            <version>2.2.5.RELEASE</version>
 <!--            &lt;!&ndash; 去除对默认日志的依赖 &ndash;&gt;-->
 <!--            <exclusions>-->
 <!--                <exclusion>-->
